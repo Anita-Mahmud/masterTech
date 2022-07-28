@@ -1,0 +1,7 @@
+.brightness img {
+    filter: brightness(40%);
+}
+
+.slider {
+    height: 580px;
+}
